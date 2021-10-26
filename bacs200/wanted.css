@@ -4,7 +4,7 @@
 * {
     padding: 0px;
     margin: 10px;
-    color: green;
+    color: #266926;
 }
 
 body {
@@ -13,22 +13,21 @@ body {
 }
 
 article {
-    border: 1px solid gray;
-    box-shadow: 2px 2px 5px gray;
+    border: 1px solid #55EC55;
+    box-shadow: 2px 2px 5px #266926;
     margin: 3em;
     padding: 1em;
 }
 
 aside {
-    background-color: black;
+    background-color: 266926;
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     font-family: sans-serif;
     color: white;
-    border: 5px solid green;
+    border: 2px solid #55EC55;
     float: right;
-    width: 30%;
-    padding: 1.5em;
+    width: 50%;
 }
 
 footer {
@@ -38,21 +37,14 @@ footer {
     padding: 2em;
 }
 
-header {
-    border: 3px solid #0a0a0a;
-    background-color: rgb(202, 204, 200);
-    font-family: sans-serif;
-    height: 120px;
-    padding: 0;
-}
 
 header * {
-    color: #green;
+    color: #55EC55;
 }
 
 hr {
     padding: 0px;
-    border: 4px solid #F6B018;
+    border: 4px solid #55EC55;
 }
 
 li {
@@ -67,7 +59,7 @@ li {
     width: 80px;
     float: right;
     background-color: white;
-    box-shadow: 2px 2px 5px gray;
+    box-shadow: 2px 2px 5px #266926;
     border-radius: 5px;
     border: 1px solid white;
     padding: 0;
@@ -75,9 +67,9 @@ li {
 
 .page {
     padding: 2em;
-    box-shadow: 2px 2px 5px grey;
+    box-shadow: 2px 2px 5px #266926;
     background-color: #eeeeee;
-    border: 3px solid #0E3D65;
+    border: 3px solid #55EC55;
     border-radius: 10px;
     width: 50%;
     float: left;
@@ -88,12 +80,16 @@ body {
 }
 
 h1 {
-    color: green;
+    color: #55EC55;
     text-align: center;
-    background-color: black;
+    background-color: #266926;
 }
 
-img {
-    border:5px solid black;
-    padding:5em;
+
+header {
+    border: 3px solid #55EC55;
+    background-color: #266926;
+    font-family: sans-serif;
+    height: 120px;
+    padding: 0;
 }
