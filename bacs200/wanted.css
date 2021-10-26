@@ -38,8 +38,8 @@ footer {
 }
 
 header {
-    border: 3px solid #F6B018;
-    background-color: #0E3D65;
+    border: 3px solid #55EC55;
+    background-color: #266926;
     font-family: sans-serif;
     height: 120px;
     padding: 0;
@@ -66,7 +66,7 @@ li {
     width: 80px;
     float: right;
     background-color: white;
-    box-shadow: 2px 2px 5px gray;
+    box-shadow: 2px 2px 5px #266926;
     border-radius: 5px;
     border: 1px solid white;
     padding: 0;
@@ -74,9 +74,9 @@ li {
 
 .page {
     padding: 2em;
-    box-shadow: 2px 2px 5px grey;
+    box-shadow: 2px 2px 5px #266926;
     background-color: #eeeeee;
-    border: 3px solid #0E3D65;
+    border: 3px solid #55EC55;
     border-radius: 10px;
     width: 50%;
     float: left;
@@ -87,7 +87,7 @@ body {
 }
 
 h1 {
-    color: rgb(223, 37, 37);
+    color: #55EC55;
     text-align: center;
-    background-color: rgb(192, 188, 188);
+    background-color: #266926;
 }
