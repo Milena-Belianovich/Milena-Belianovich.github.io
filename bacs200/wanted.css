@@ -90,6 +90,13 @@ h1 {
     text-align: center;
     background-color: #266926;
 }
+
+h2 {
+    color: #55EC55;
+    text-align: center;
+    background-color: #266926;
+}
+
 img {
     border:5px solid black;
     padding:5em;
