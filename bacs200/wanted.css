@@ -30,6 +30,16 @@ aside {
     width: 50%;
 }
 
+section {
+    background-color: #266926;
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #55EC55;
+    float: right;
+    width: 50%;
+}
+
 header * {
     color: #55EC55;
 }
@@ -40,7 +50,7 @@ hr {
 }
 
 li {
-    color: white;
+    color: #55EC55;
     margin: 5px 3em;
     padding: 0px;
 }
@@ -103,7 +113,3 @@ footer {
     padding: 0;
 }
 
-img {
-    border:5px solid #266926;
-    padding:5em;
-}
