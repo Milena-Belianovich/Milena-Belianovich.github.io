@@ -54,6 +54,13 @@ hr {
 }
 
 li {
+    color:#55EC55;
+    margin: 5px 3em;
+    padding: 0px;
+}
+
+ol {
+    color: white;
     margin: 5px 3em;
     padding: 0px;
 }
