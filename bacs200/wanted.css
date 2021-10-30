@@ -90,6 +90,7 @@ header {
     border: 3px solid #55EC55;
     background-color: #266926;
     font-family: sans-serif;
+    text-align: center;
     height: 120px;
     padding: 0;
 }
@@ -98,6 +99,7 @@ footer {
     border: 3px solid #55EC55;
     background-color: #266926;
     font-family: sans-serif;
+    text-align: center;
     height: 120px;
     padding: 0;
 }
