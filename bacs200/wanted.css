@@ -53,14 +53,8 @@ hr {
     border: 4px solid #55EC55;
 }
 
-ul {
-    color:#55EC55;
-    margin: 5px 3em;
-    padding: 0px;
-}
-
-ol {
-    color: white;
+li {
+    color: rgb(235, 128, 79);
     margin: 5px 3em;
     padding: 0px;
 }
