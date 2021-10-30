@@ -1,6 +1,3 @@
-
-
-
 * {
     padding: 0px;
     margin: 10px;
@@ -22,12 +19,12 @@ article {
 aside {
     background-color: #266926;
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
     font-family: sans-serif;
     color: white;
     border: 5px solid #55EC55;
     float: right;
-    width: 30%;
+    width: 40%;
     padding: 1.5em;
 }
 
@@ -44,6 +41,7 @@ header {
     font-family: sans-serif;
     height: 120px;
     padding: 0;
+    text-align: center;
 }
 
 header * {
