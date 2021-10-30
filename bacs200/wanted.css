@@ -77,6 +77,12 @@ h1 {
     background-color: #266926;
 }
 
+h2 {
+    color: #55EC55;
+    text-align: center;
+    background-color: #266926;
+}
+
 
 header {
     border: 3px solid #55EC55;
@@ -94,4 +100,9 @@ footer {
     text-align: center;
     height: 120px;
     padding: 0;
+}
+
+img {
+    border:5px solid #266926;
+    padding:5em;
 }
